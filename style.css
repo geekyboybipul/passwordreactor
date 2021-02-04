@@ -1,0 +1,34 @@
+.div_1{
+  background: grey;
+  box-sizing: border-box;
+  border-radius: 2px;
+  height: 300px;
+  width:400px;
+  position: absolute;
+  align-content: center;
+  left: 40%;
+  top: 40%;
+
+}
+form{
+  background-color: orange;
+  font-size: 60px;
+}
+input{
+  width: 98%;
+  height: 50px;
+}
+.emoji{
+  font-size: 50px;
+  align-content: center;
+  position: absolute;
+  left: 40%;
+}
+#strength{
+  align-items: center;
+  position: absolute;
+  left: 30%;
+  top:130px;
+  font-size: 30px;
+
+}
